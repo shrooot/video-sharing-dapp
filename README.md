@@ -1,7 +1,7 @@
 # video-sharing-dapp
 A YouTube like video sharing application which is decentralized.
 
-It uses the etherium smart contract functionality.
+It uses the ethereum smart contract functionality.
 
 Make sure you have the following pre-requisites:
 
@@ -36,4 +36,4 @@ Updates:
 
 -> Deployment
 
--> Improving the code as I learn forward
+-> Improving the code as I learn more
